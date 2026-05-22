@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/VallabhGhatge/VallabhGhatge/blob/main/Banner.png" />
+</p>
 ## Hi there 👋
 
 <!--
